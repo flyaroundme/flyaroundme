@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hola 👋
 
-<!--
-**flyaroundme/flyaroundme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi nombre es Alex.
 
-Here are some ideas to get you started:
+I am currently working as a senior software engineer at [@epam](https://github.com/epam), focusing on backend development with Python and Go, as well as engineering team leading and mentoring.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My open-source interests are currently revolving around Rust and Python tooling.
+
+Recently rediscovered some joy in life overall and programming and digging in things in particular yet again (after all this time), so now I'm happy to collaborate on various topics!
+
+Occasionally I commit somewhere.
+
+[![Alexander Gherm profile views](https://u8views.com/api/v1/github/profiles/1743477/views/pixel.svg)](https://u8views.com/github/flyaroundme)
