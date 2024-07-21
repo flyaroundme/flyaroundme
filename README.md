@@ -14,4 +14,4 @@ Some stats (for my own fun)
 
 [![Alexander Gherm profile views](https://u8views.com/api/v1/github/profiles/1743477/views/pixel.svg)](https://u8views.com/github/flyaroundme)
 
-<img src="https://myreadme.vercel.app/api/embed/flyaroundme?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/flyaroundme?panels=userstatistics,toprepositories,toplanguages" alt="reimaginedreadme" />
