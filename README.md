@@ -10,7 +10,6 @@ Recently rediscovered some joy in life overall and programming and digging in th
 
 Occasionally I commit somewhere.
 
-Some stats (for my own fun)
 
 [![Alexander Gherm profile views](https://u8views.com/api/v1/github/profiles/1743477/views/pixel.svg)](https://u8views.com/github/flyaroundme)
 
