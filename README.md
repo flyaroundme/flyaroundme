@@ -10,6 +10,8 @@ Recently rediscovered some joy in life overall and programming and digging in th
 
 Occasionally I commit somewhere.
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=flyaroundme&show_icons=true&bg_color=00000000)
+
 
 [![Alexander Gherm profile views](https://u8views.com/api/v1/github/profiles/1743477/views/pixel.svg)](https://u8views.com/github/flyaroundme)
 
