@@ -10,6 +10,8 @@ Recently rediscovered some joy in life overall and programming and digging in th
 
 Occasionally I commit somewhere.
 
+Alternative spellings (for searching needs): Aleksandr Germ, Александр Герм
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=flyaroundme&show_icons=true&bg_color=00000000)
 
 
