@@ -1,8 +1,8 @@
 ## Hola 👋
 
-Mi nombre es Alex.
+My name is Alex.
 
-I am currently working as a senior software engineer at [@epam](https://github.com/epam), focusing on backend development with Python and Go, as well as engineering team leading and mentoring.
+I am currently working as a senior software engineer at [@epam](https://github.com/epam), specializing in backend development with Python and Go, mentoring, and leading engineering teams on various projects.
 
 My open-source interests are currently revolving around Rust and Python tooling.
 
