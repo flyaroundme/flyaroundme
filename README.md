@@ -17,3 +17,4 @@ Alternative spellings (for searching needs): Aleksandr Germ
 
 [![Alexander Gherm profile views](https://u8views.com/api/v1/github/profiles/1743477/views/pixel.svg)](https://u8views.com/github/flyaroundme)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=flyaroundme)](https://git.io/streak-stats)
