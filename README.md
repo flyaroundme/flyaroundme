@@ -14,8 +14,6 @@ Alternative spellings (for searching needs): Aleksandr Germ
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=flyaroundme&show_icons=true&bg_color=00000000)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=flyaroundme)](https://git.io/streak-stats)
-
 [![Alexander Gherm profile views](https://u8views.com/api/v1/github/profiles/1743477/views/pixel.svg)](https://u8views.com/github/flyaroundme)
 
 
